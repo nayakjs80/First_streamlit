@@ -48,3 +48,4 @@ zipp==3.10.0 ; python_version >= '3.7'
 streamlit_folium
 geopy
 folium
+geocoder
